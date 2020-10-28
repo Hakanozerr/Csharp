@@ -1,0 +1,13 @@
+C:\Users\Indata\Desktop\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\bin\Debug\netcoreapp3.1\PozitifSayılarıToplamaCift.exe
+C:\Users\Indata\Desktop\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\bin\Debug\netcoreapp3.1\PozitifSayılarıToplamaCift.deps.json
+C:\Users\Indata\Desktop\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\bin\Debug\netcoreapp3.1\PozitifSayılarıToplamaCift.runtimeconfig.json
+C:\Users\Indata\Desktop\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\bin\Debug\netcoreapp3.1\PozitifSayılarıToplamaCift.runtimeconfig.dev.json
+C:\Users\Indata\Desktop\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\bin\Debug\netcoreapp3.1\PozitifSayılarıToplamaCift.dll
+C:\Users\Indata\Desktop\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\bin\Debug\netcoreapp3.1\PozitifSayılarıToplamaCift.pdb
+C:\Users\Indata\Desktop\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\obj\Debug\netcoreapp3.1\PozitifSayılarıToplamaCift.csprojAssemblyReference.cache
+C:\Users\Indata\Desktop\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\obj\Debug\netcoreapp3.1\PozitifSayılarıToplamaCift.AssemblyInfoInputs.cache
+C:\Users\Indata\Desktop\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\obj\Debug\netcoreapp3.1\PozitifSayılarıToplamaCift.AssemblyInfo.cs
+C:\Users\Indata\Desktop\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\obj\Debug\netcoreapp3.1\PozitifSayılarıToplamaCift.csproj.CoreCompileInputs.cache
+C:\Users\Indata\Desktop\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\obj\Debug\netcoreapp3.1\PozitifSayılarıToplamaCift.dll
+C:\Users\Indata\Desktop\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\obj\Debug\netcoreapp3.1\PozitifSayılarıToplamaCift.pdb
+C:\Users\Indata\Desktop\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\obj\Debug\netcoreapp3.1\PozitifSayılarıToplamaCift.genruntimeconfig.cache

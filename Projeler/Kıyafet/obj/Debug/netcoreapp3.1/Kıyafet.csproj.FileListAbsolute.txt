@@ -1,0 +1,13 @@
+C:\Users\Indata\Desktop\Projeler\Kıyafet\bin\Debug\netcoreapp3.1\Kıyafet.exe
+C:\Users\Indata\Desktop\Projeler\Kıyafet\bin\Debug\netcoreapp3.1\Kıyafet.deps.json
+C:\Users\Indata\Desktop\Projeler\Kıyafet\bin\Debug\netcoreapp3.1\Kıyafet.runtimeconfig.json
+C:\Users\Indata\Desktop\Projeler\Kıyafet\bin\Debug\netcoreapp3.1\Kıyafet.runtimeconfig.dev.json
+C:\Users\Indata\Desktop\Projeler\Kıyafet\bin\Debug\netcoreapp3.1\Kıyafet.dll
+C:\Users\Indata\Desktop\Projeler\Kıyafet\bin\Debug\netcoreapp3.1\Kıyafet.pdb
+C:\Users\Indata\Desktop\Projeler\Kıyafet\obj\Debug\netcoreapp3.1\Kıyafet.csprojAssemblyReference.cache
+C:\Users\Indata\Desktop\Projeler\Kıyafet\obj\Debug\netcoreapp3.1\Kıyafet.AssemblyInfoInputs.cache
+C:\Users\Indata\Desktop\Projeler\Kıyafet\obj\Debug\netcoreapp3.1\Kıyafet.AssemblyInfo.cs
+C:\Users\Indata\Desktop\Projeler\Kıyafet\obj\Debug\netcoreapp3.1\Kıyafet.csproj.CoreCompileInputs.cache
+C:\Users\Indata\Desktop\Projeler\Kıyafet\obj\Debug\netcoreapp3.1\Kıyafet.dll
+C:\Users\Indata\Desktop\Projeler\Kıyafet\obj\Debug\netcoreapp3.1\Kıyafet.pdb
+C:\Users\Indata\Desktop\Projeler\Kıyafet\obj\Debug\netcoreapp3.1\Kıyafet.genruntimeconfig.cache

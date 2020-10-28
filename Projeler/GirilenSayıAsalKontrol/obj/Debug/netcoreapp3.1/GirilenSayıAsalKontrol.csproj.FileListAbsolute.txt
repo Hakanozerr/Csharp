@@ -1,0 +1,13 @@
+C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\bin\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.exe
+C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\bin\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.deps.json
+C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\bin\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.runtimeconfig.json
+C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\bin\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.runtimeconfig.dev.json
+C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\bin\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.dll
+C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\bin\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.pdb
+C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.csprojAssemblyReference.cache
+C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.AssemblyInfoInputs.cache
+C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.AssemblyInfo.cs
+C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.csproj.CoreCompileInputs.cache
+C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.dll
+C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.pdb
+C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.genruntimeconfig.cache

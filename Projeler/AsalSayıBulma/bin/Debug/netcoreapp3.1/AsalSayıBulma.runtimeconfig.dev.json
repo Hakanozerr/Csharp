@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Indata\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Indata\\.nuget\\packages"
+    ]
+  }
+}

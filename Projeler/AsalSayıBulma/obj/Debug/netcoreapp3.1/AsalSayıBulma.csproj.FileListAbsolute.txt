@@ -1,0 +1,13 @@
+C:\Users\Indata\Desktop\Projeler\AsalSayıBulma\bin\Debug\netcoreapp3.1\AsalSayıBulma.exe
+C:\Users\Indata\Desktop\Projeler\AsalSayıBulma\bin\Debug\netcoreapp3.1\AsalSayıBulma.deps.json
+C:\Users\Indata\Desktop\Projeler\AsalSayıBulma\bin\Debug\netcoreapp3.1\AsalSayıBulma.runtimeconfig.json
+C:\Users\Indata\Desktop\Projeler\AsalSayıBulma\bin\Debug\netcoreapp3.1\AsalSayıBulma.runtimeconfig.dev.json
+C:\Users\Indata\Desktop\Projeler\AsalSayıBulma\bin\Debug\netcoreapp3.1\AsalSayıBulma.dll
+C:\Users\Indata\Desktop\Projeler\AsalSayıBulma\bin\Debug\netcoreapp3.1\AsalSayıBulma.pdb
+C:\Users\Indata\Desktop\Projeler\AsalSayıBulma\obj\Debug\netcoreapp3.1\AsalSayıBulma.AssemblyInfoInputs.cache
+C:\Users\Indata\Desktop\Projeler\AsalSayıBulma\obj\Debug\netcoreapp3.1\AsalSayıBulma.AssemblyInfo.cs
+C:\Users\Indata\Desktop\Projeler\AsalSayıBulma\obj\Debug\netcoreapp3.1\AsalSayıBulma.csproj.CoreCompileInputs.cache
+C:\Users\Indata\Desktop\Projeler\AsalSayıBulma\obj\Debug\netcoreapp3.1\AsalSayıBulma.dll
+C:\Users\Indata\Desktop\Projeler\AsalSayıBulma\obj\Debug\netcoreapp3.1\AsalSayıBulma.pdb
+C:\Users\Indata\Desktop\Projeler\AsalSayıBulma\obj\Debug\netcoreapp3.1\AsalSayıBulma.genruntimeconfig.cache
+C:\Users\Indata\Desktop\Projeler\AsalSayıBulma\obj\Debug\netcoreapp3.1\AsalSayıBulma.csprojAssemblyReference.cache

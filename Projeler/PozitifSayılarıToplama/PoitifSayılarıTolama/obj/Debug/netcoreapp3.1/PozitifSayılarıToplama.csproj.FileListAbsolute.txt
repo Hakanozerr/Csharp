@@ -1,0 +1,13 @@
+C:\Users\Indata\Desktop\PoitifSayılarıTolama\PoitifSayılarıTolama\bin\Debug\netcoreapp3.1\PozitifSayılarıToplama.exe
+C:\Users\Indata\Desktop\PoitifSayılarıTolama\PoitifSayılarıTolama\bin\Debug\netcoreapp3.1\PozitifSayılarıToplama.deps.json
+C:\Users\Indata\Desktop\PoitifSayılarıTolama\PoitifSayılarıTolama\bin\Debug\netcoreapp3.1\PozitifSayılarıToplama.runtimeconfig.json
+C:\Users\Indata\Desktop\PoitifSayılarıTolama\PoitifSayılarıTolama\bin\Debug\netcoreapp3.1\PozitifSayılarıToplama.runtimeconfig.dev.json
+C:\Users\Indata\Desktop\PoitifSayılarıTolama\PoitifSayılarıTolama\bin\Debug\netcoreapp3.1\PozitifSayılarıToplama.dll
+C:\Users\Indata\Desktop\PoitifSayılarıTolama\PoitifSayılarıTolama\bin\Debug\netcoreapp3.1\PozitifSayılarıToplama.pdb
+C:\Users\Indata\Desktop\PoitifSayılarıTolama\PoitifSayılarıTolama\obj\Debug\netcoreapp3.1\PozitifSayılarıToplama.csprojAssemblyReference.cache
+C:\Users\Indata\Desktop\PoitifSayılarıTolama\PoitifSayılarıTolama\obj\Debug\netcoreapp3.1\PozitifSayılarıToplama.AssemblyInfoInputs.cache
+C:\Users\Indata\Desktop\PoitifSayılarıTolama\PoitifSayılarıTolama\obj\Debug\netcoreapp3.1\PozitifSayılarıToplama.AssemblyInfo.cs
+C:\Users\Indata\Desktop\PoitifSayılarıTolama\PoitifSayılarıTolama\obj\Debug\netcoreapp3.1\PozitifSayılarıToplama.csproj.CoreCompileInputs.cache
+C:\Users\Indata\Desktop\PoitifSayılarıTolama\PoitifSayılarıTolama\obj\Debug\netcoreapp3.1\PozitifSayılarıToplama.dll
+C:\Users\Indata\Desktop\PoitifSayılarıTolama\PoitifSayılarıTolama\obj\Debug\netcoreapp3.1\PozitifSayılarıToplama.pdb
+C:\Users\Indata\Desktop\PoitifSayılarıTolama\PoitifSayılarıTolama\obj\Debug\netcoreapp3.1\PozitifSayılarıToplama.genruntimeconfig.cache
