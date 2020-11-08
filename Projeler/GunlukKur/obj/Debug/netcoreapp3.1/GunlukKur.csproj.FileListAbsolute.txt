@@ -1,0 +1,13 @@
+F:\Dosyalar\Projeler\GunlukKur\bin\Debug\netcoreapp3.1\GunlukKur.exe
+F:\Dosyalar\Projeler\GunlukKur\bin\Debug\netcoreapp3.1\GunlukKur.deps.json
+F:\Dosyalar\Projeler\GunlukKur\bin\Debug\netcoreapp3.1\GunlukKur.runtimeconfig.json
+F:\Dosyalar\Projeler\GunlukKur\bin\Debug\netcoreapp3.1\GunlukKur.runtimeconfig.dev.json
+F:\Dosyalar\Projeler\GunlukKur\bin\Debug\netcoreapp3.1\GunlukKur.dll
+F:\Dosyalar\Projeler\GunlukKur\bin\Debug\netcoreapp3.1\GunlukKur.pdb
+F:\Dosyalar\Projeler\GunlukKur\obj\Debug\netcoreapp3.1\GunlukKur.AssemblyInfoInputs.cache
+F:\Dosyalar\Projeler\GunlukKur\obj\Debug\netcoreapp3.1\GunlukKur.AssemblyInfo.cs
+F:\Dosyalar\Projeler\GunlukKur\obj\Debug\netcoreapp3.1\GunlukKur.csproj.CoreCompileInputs.cache
+F:\Dosyalar\Projeler\GunlukKur\obj\Debug\netcoreapp3.1\GunlukKur.dll
+F:\Dosyalar\Projeler\GunlukKur\obj\Debug\netcoreapp3.1\GunlukKur.pdb
+F:\Dosyalar\Projeler\GunlukKur\obj\Debug\netcoreapp3.1\GunlukKur.genruntimeconfig.cache
+F:\Dosyalar\Projeler\GunlukKur\obj\Debug\netcoreapp3.1\GunlukKur.csprojAssemblyReference.cache

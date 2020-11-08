@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ftG9dyWGTxcCrKsRl6zWf4oNChInwWlTzOeDZjgaZDPAfZrkAEt2j7yLfWSYpjK9fvZPD3+zxA/4g6Jqn2zviA==",
+  "success": true,
+  "projectFilePath": "F:\\Dosyalar\\Projeler\\GunlukKur\\GunlukKur.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OEM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
