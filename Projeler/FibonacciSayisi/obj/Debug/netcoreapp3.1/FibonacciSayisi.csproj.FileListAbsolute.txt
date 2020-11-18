@@ -1,0 +1,13 @@
+C:\Users\Indata\Desktop\C#\FibonacciSayisi\obj\Debug\netcoreapp3.1\FibonacciSayisi.csprojAssemblyReference.cache
+C:\Users\Indata\Desktop\C#\FibonacciSayisi\obj\Debug\netcoreapp3.1\FibonacciSayisi.AssemblyInfoInputs.cache
+C:\Users\Indata\Desktop\C#\FibonacciSayisi\obj\Debug\netcoreapp3.1\FibonacciSayisi.AssemblyInfo.cs
+C:\Users\Indata\Desktop\C#\FibonacciSayisi\obj\Debug\netcoreapp3.1\FibonacciSayisi.csproj.CoreCompileInputs.cache
+C:\Users\Indata\Desktop\C#\FibonacciSayisi\bin\Debug\netcoreapp3.1\FibonacciSayisi.exe
+C:\Users\Indata\Desktop\C#\FibonacciSayisi\bin\Debug\netcoreapp3.1\FibonacciSayisi.deps.json
+C:\Users\Indata\Desktop\C#\FibonacciSayisi\bin\Debug\netcoreapp3.1\FibonacciSayisi.runtimeconfig.json
+C:\Users\Indata\Desktop\C#\FibonacciSayisi\bin\Debug\netcoreapp3.1\FibonacciSayisi.runtimeconfig.dev.json
+C:\Users\Indata\Desktop\C#\FibonacciSayisi\bin\Debug\netcoreapp3.1\FibonacciSayisi.dll
+C:\Users\Indata\Desktop\C#\FibonacciSayisi\bin\Debug\netcoreapp3.1\FibonacciSayisi.pdb
+C:\Users\Indata\Desktop\C#\FibonacciSayisi\obj\Debug\netcoreapp3.1\FibonacciSayisi.dll
+C:\Users\Indata\Desktop\C#\FibonacciSayisi\obj\Debug\netcoreapp3.1\FibonacciSayisi.pdb
+C:\Users\Indata\Desktop\C#\FibonacciSayisi\obj\Debug\netcoreapp3.1\FibonacciSayisi.genruntimeconfig.cache
