@@ -11,3 +11,16 @@ C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1
 C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.dll
 C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.pdb
 C:\Users\Indata\Desktop\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.genruntimeconfig.cache
+F:\GitHub\Csharp\Projeler\GirilenSayıAsalKontrol\bin\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.exe
+F:\GitHub\Csharp\Projeler\GirilenSayıAsalKontrol\bin\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.deps.json
+F:\GitHub\Csharp\Projeler\GirilenSayıAsalKontrol\bin\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.runtimeconfig.json
+F:\GitHub\Csharp\Projeler\GirilenSayıAsalKontrol\bin\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.runtimeconfig.dev.json
+F:\GitHub\Csharp\Projeler\GirilenSayıAsalKontrol\bin\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.dll
+F:\GitHub\Csharp\Projeler\GirilenSayıAsalKontrol\bin\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.pdb
+F:\GitHub\Csharp\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.csprojAssemblyReference.cache
+F:\GitHub\Csharp\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.AssemblyInfoInputs.cache
+F:\GitHub\Csharp\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.AssemblyInfo.cs
+F:\GitHub\Csharp\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.csproj.CoreCompileInputs.cache
+F:\GitHub\Csharp\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.dll
+F:\GitHub\Csharp\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.pdb
+F:\GitHub\Csharp\Projeler\GirilenSayıAsalKontrol\obj\Debug\netcoreapp3.1\GirilenSayıAsalKontrol.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\GitHub\Csharp\Projeler\DiziSayıArtırma\bin\Debug\netcoreapp3.1\DiziSayıArtırma.exe
+F:\GitHub\Csharp\Projeler\DiziSayıArtırma\bin\Debug\netcoreapp3.1\DiziSayıArtırma.deps.json
+F:\GitHub\Csharp\Projeler\DiziSayıArtırma\bin\Debug\netcoreapp3.1\DiziSayıArtırma.runtimeconfig.json
+F:\GitHub\Csharp\Projeler\DiziSayıArtırma\bin\Debug\netcoreapp3.1\DiziSayıArtırma.runtimeconfig.dev.json
+F:\GitHub\Csharp\Projeler\DiziSayıArtırma\bin\Debug\netcoreapp3.1\DiziSayıArtırma.dll
+F:\GitHub\Csharp\Projeler\DiziSayıArtırma\bin\Debug\netcoreapp3.1\DiziSayıArtırma.pdb
+F:\GitHub\Csharp\Projeler\DiziSayıArtırma\obj\Debug\netcoreapp3.1\DiziSayıArtırma.AssemblyInfoInputs.cache
+F:\GitHub\Csharp\Projeler\DiziSayıArtırma\obj\Debug\netcoreapp3.1\DiziSayıArtırma.AssemblyInfo.cs
+F:\GitHub\Csharp\Projeler\DiziSayıArtırma\obj\Debug\netcoreapp3.1\DiziSayıArtırma.csproj.CoreCompileInputs.cache
+F:\GitHub\Csharp\Projeler\DiziSayıArtırma\obj\Debug\netcoreapp3.1\DiziSayıArtırma.dll
+F:\GitHub\Csharp\Projeler\DiziSayıArtırma\obj\Debug\netcoreapp3.1\DiziSayıArtırma.pdb
+F:\GitHub\Csharp\Projeler\DiziSayıArtırma\obj\Debug\netcoreapp3.1\DiziSayıArtırma.genruntimeconfig.cache
+F:\GitHub\Csharp\Projeler\DiziSayıArtırma\obj\Debug\netcoreapp3.1\DiziSayıArtırma.csprojAssemblyReference.cache

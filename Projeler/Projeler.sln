@@ -11,9 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PozitifSayılarıToplama", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PozitifSayılarıToplamaCift", "PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift\PozitifSayılarıToplamaCift.csproj", "{D6F2B305-8FD1-4A4A-9735-A6F8425D2346}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsalSayıBulma", "AsalSayıBulma\AsalSayıBulma.csproj", "{63DE2781-832B-4DD3-8324-797338D9212C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsalSayıBulma", "AsalSayıBulma\AsalSayıBulma.csproj", "{63DE2781-832B-4DD3-8324-797338D9212C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GirilenSayıAsalKontrol", "GirilenSayıAsalKontrol\GirilenSayıAsalKontrol.csproj", "{9454FB8A-718D-4B89-B67E-EE5708DB433B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GirilenSayıAsalKontrol", "GirilenSayıAsalKontrol\GirilenSayıAsalKontrol.csproj", "{9454FB8A-718D-4B89-B67E-EE5708DB433B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciSayisi", "FibonacciSayisi\FibonacciSayisi.csproj", "{0353B628-0FEE-4F21-9C79-644D66D8D318}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GunlukKur", "GunlukKur\GunlukKur.csproj", "{ED26F0C4-BC9A-4FED-92C7-7B5129F1E9CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziSayıArtırma", "DiziSayıArtırma\DiziSayıArtırma.csproj", "{1B4C22BA-755C-4AAA-9943-ECA77A3DAA27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{9454FB8A-718D-4B89-B67E-EE5708DB433B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9454FB8A-718D-4B89-B67E-EE5708DB433B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9454FB8A-718D-4B89-B67E-EE5708DB433B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0353B628-0FEE-4F21-9C79-644D66D8D318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0353B628-0FEE-4F21-9C79-644D66D8D318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0353B628-0FEE-4F21-9C79-644D66D8D318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0353B628-0FEE-4F21-9C79-644D66D8D318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED26F0C4-BC9A-4FED-92C7-7B5129F1E9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED26F0C4-BC9A-4FED-92C7-7B5129F1E9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED26F0C4-BC9A-4FED-92C7-7B5129F1E9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED26F0C4-BC9A-4FED-92C7-7B5129F1E9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4C22BA-755C-4AAA-9943-ECA77A3DAA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4C22BA-755C-4AAA-9943-ECA77A3DAA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4C22BA-755C-4AAA-9943-ECA77A3DAA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4C22BA-755C-4AAA-9943-ECA77A3DAA27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
