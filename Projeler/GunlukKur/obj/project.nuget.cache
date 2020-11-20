@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ftG9dyWGTxcCrKsRl6zWf4oNChInwWlTzOeDZjgaZDPAfZrkAEt2j7yLfWSYpjK9fvZPD3+zxA/4g6Jqn2zviA==",
+  "dgSpecHash": "By+xf/fESUQVwfj9u1mxmWvsyf8zMuDMUW+78NXSv8xHLnyKTod33b/hjq6x4E6b1LyoAHEUY4yomT2w0S/t+A==",
   "success": true,
-  "projectFilePath": "F:\\Dosyalar\\Projeler\\GunlukKur\\GunlukKur.csproj",
+  "projectFilePath": "F:\\GitHub\\Csharp\\Projeler\\GunlukKur\\GunlukKur.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OEM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

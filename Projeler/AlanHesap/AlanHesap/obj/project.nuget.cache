@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "POELBUHDMLLPvgVV/7Rdfx646YcMS20Dk7jhqTBy5S6rPBQx09/X3a4kGYW0nUrRapAw4F9kywd6bIp3TGZWcQ==",
+  "dgSpecHash": "XMLBKGteJ5SKbIsB86L/Ky9X+GrJH6tQQyH6UTTHbyXPXjsZ6Q3hsbe7/2IkAe3uKJgvQ1wCvGTYguAaK1lnkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Indata\\Desktop\\Projeler\\AlanHesap\\AlanHesap\\AlanHesap.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\GitHub\\Csharp\\Projeler\\AlanHesap\\AlanHesap\\AlanHesap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OEM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Dosyalar\\Projeler\\GunlukKur\\GunlukKur.csproj": {}
+    "F:\\GitHub\\Csharp\\Projeler\\GunlukKur\\GunlukKur.csproj": {}
   },
   "projects": {
-    "F:\\Dosyalar\\Projeler\\GunlukKur\\GunlukKur.csproj": {
+    "F:\\GitHub\\Csharp\\Projeler\\GunlukKur\\GunlukKur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Dosyalar\\Projeler\\GunlukKur\\GunlukKur.csproj",
+        "projectUniqueName": "F:\\GitHub\\Csharp\\Projeler\\GunlukKur\\GunlukKur.csproj",
         "projectName": "GunlukKur",
-        "projectPath": "F:\\Dosyalar\\Projeler\\GunlukKur\\GunlukKur.csproj",
+        "projectPath": "F:\\GitHub\\Csharp\\Projeler\\GunlukKur\\GunlukKur.csproj",
         "packagesPath": "C:\\Users\\OEM\\.nuget\\packages\\",
-        "outputPath": "F:\\Dosyalar\\Projeler\\GunlukKur\\obj\\",
+        "outputPath": "F:\\GitHub\\Csharp\\Projeler\\GunlukKur\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

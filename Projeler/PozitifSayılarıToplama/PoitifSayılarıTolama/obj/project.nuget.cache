@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8eZ6uO96sZA+RI4w/2APusT0BFUk7o5lqKrR2NR7eXGfKBubEY8oFDL6okPb6Z4CMtriVun9xcHb3trqo8nzkA==",
+  "dgSpecHash": "EbAzqMLs5hgknY7GZxjY6N2+/3GxEJ1893D6SejU+qbrcqaQ4tuJ6os+mLSG9IZJsLW8y4tX3qgcJyecxvI7Pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Indata\\Desktop\\Projeler\\PozitifSayılarıToplama\\PoitifSayılarıTolama\\PozitifSayılarıToplama.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\GitHub\\Csharp\\Projeler\\PozitifSayılarıToplama\\PoitifSayılarıTolama\\PozitifSayılarıToplama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OEM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

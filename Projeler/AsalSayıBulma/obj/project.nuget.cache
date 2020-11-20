@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9gPOu4ttDI2Xg2qnC39IHdNUEW8vBIILvsF7WW1lWpoAb1duBEdCP05NwF0PZguwBMAPhbQ+xtMyH9kGqFMgog==",
+  "dgSpecHash": "Ny5H5nlWYkR8iSciDCr/eVxsNcSWSYEuvA/9iVHTzlxAnoF/Fckx5IOtdITdxb4+vM2P5peSKI3j0HDgNdufjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Indata\\Desktop\\Projeler\\AsalSayıBulma\\AsalSayıBulma.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\GitHub\\Csharp\\Projeler\\AsalSayıBulma\\AsalSayıBulma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OEM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

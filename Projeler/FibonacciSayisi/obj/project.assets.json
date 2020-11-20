@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Indata\\.nuget\\packages\\": {}
+    "C:\\Users\\OEM\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Indata\\Desktop\\C#\\FibonacciSayisi\\FibonacciSayisi.csproj",
+      "projectUniqueName": "F:\\GitHub\\Csharp\\Projeler\\FibonacciSayisi\\FibonacciSayisi.csproj",
       "projectName": "FibonacciSayisi",
-      "projectPath": "C:\\Users\\Indata\\Desktop\\C#\\FibonacciSayisi\\FibonacciSayisi.csproj",
-      "packagesPath": "C:\\Users\\Indata\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Indata\\Desktop\\C#\\FibonacciSayisi\\obj\\",
+      "projectPath": "F:\\GitHub\\Csharp\\Projeler\\FibonacciSayisi\\FibonacciSayisi.csproj",
+      "packagesPath": "C:\\Users\\OEM\\.nuget\\packages\\",
+      "outputPath": "F:\\GitHub\\Csharp\\Projeler\\FibonacciSayisi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Indata\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\OEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,12 +57,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

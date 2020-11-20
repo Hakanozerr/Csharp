@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qT5mxeGojPT9OJoGSePzzONs24x35+xVIr0wqbhDxAc+LN7AiK7jmKXe5Wu8wKCuYQseui34Jhuij9te50Fgrg==",
+  "dgSpecHash": "irWLSTmDWhHuyDu3XYyj1hG+4Sxrv0dY+6Ku/kCM19dc0QSe7NY5zm1hAbqHnuAAppcAzK/M4YrE5J0NAr/B4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Indata\\Desktop\\Projeler\\Kıyafet\\Kıyafet.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\GitHub\\Csharp\\Projeler\\Kıyafet\\Kıyafet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OEM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
